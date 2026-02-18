@@ -30,7 +30,7 @@ Komari 社区成员们积极贡献并共同维护着一系列 Agent 项目。这
 > 
 > 开发者：[liveqte](https://github.com/liveqte)
 
-`komari-agent-webhost`是一个使用Python语言编写的komari探针，适用于限制执行二进制探针的虚拟主机环境。
+`komari-agent-webhost`是一个使用Python语言编写的komari探针，适用于限制执行二进制探针的虚拟主机环境
 
 ## ikuai-komari-agent
 
