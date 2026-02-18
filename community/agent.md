@@ -23,3 +23,11 @@ Komari 社区成员们积极贡献并共同维护着一系列 Agent 项目。这
 `Ulmaridae` 是一个通过包裹 [komari-agent](https://github.com/komari-monitor/komari-agent) 二进制文件，把 Android 设备当作服务器来监控的 App
 
 由于 Android 环境的限制，在非 root 设备上部分数据会有缺失（延迟部分可正常运作），授予 root 权限后效果更佳
+
+## komari-agent-webhost
+
+> 项目地址：[Github](https://https://github.com/liveqte/komari-agent-webhost)
+>
+> 开发者：[liveqte](https://github.com/liveqte)
+
+`komari-agent-webhost`是一个使用Python语言编写的komari探针，适用于限制执行二进制探针的虚拟主机环境。
